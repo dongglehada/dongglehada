@@ -2,11 +2,9 @@
 
 <h2>🧑‍💻 About Me</h2>
 <div> - 안녕하세요! 저는 주니어 iOS 개발자 서준영입니다. </div>
-<div> - UI와 UX에 대한 호기심이 많습니다.</div>
-<div> - 반복되는 작업을 개선하는 것을 좋아합니다.</div>
 
 <h2>🌎 Experience</h2>
-<div> - (주)이지엠앤씨 iOS 개발 [2024.08~] </div>
+<div> - (주)이지엠앤씨 iOS 개발 [2024.08~2025.03] </div>
 
 <h2>👋 Contact Me</h3>  
 
